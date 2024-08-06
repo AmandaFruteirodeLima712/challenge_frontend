@@ -43,3 +43,6 @@ Este projeto é uma aplicação web que consome a API do MercadoLivre para busca
     npm run dev
     ```
     O frontend estará rodando na porta 5173.
+
+
+   OBS: Caso o modo noturno esteja ativado desabilite-o de seu navegador.
