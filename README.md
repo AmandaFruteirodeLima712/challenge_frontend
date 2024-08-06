@@ -35,12 +35,7 @@ Este projeto é uma aplicação web que consome a API do MercadoLivre para busca
     ```
     O servidor estará rodando na porta 3001.
 
-4. Abra um novo terminal e navegue até o diretório do frontend para instalar as dependências:
-
-    ```bash
-    cd challenge_frontend/frontend
-    npm install
-    ```
+4. Abra um novo terminal e navegue até o diretório raiz do repositório:
 
 5. Inicie o frontend:
 
