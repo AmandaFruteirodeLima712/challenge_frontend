@@ -1,0 +1,87 @@
+.divCardProduto {
+    background-color: #ffffff;
+    width: 70vw;
+    height: 18vh;
+    margin: 0;
+    border-radius: 0.2vw;
+ 
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+    margin: 0.1vw;
+    padding: 0.5vw;
+}
+
+.divInternaCardProduto {
+
+    width: 65vw;
+
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.imgProduto {
+    height: 18vh;
+    width: 10vw;
+    border-radius: 0.2vw;
+}
+
+.imgStatusDisponivel {
+    width: 1vw;
+    padding: 0.3vw;
+}
+
+.divInfosProduto {
+
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: space-between;
+}
+
+
+.divPrecoStatusProduto{
+    height: 5vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.divNomeQuantidade {
+
+    width: 18vw;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: space-between;
+    
+}
+
+.divTodasInfosProduto{
+
+    width: 30vw;
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    justify-content: space-between;
+    font-size: 1em;
+}
+
+.divLocalizacao{
+    height: 6vh;
+    width: 6vw;
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    justify-content: start;
+}
+
+
+.divPreco {
+    font-size: 1.4em;
+}

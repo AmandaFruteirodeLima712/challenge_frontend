@@ -1,0 +1,69 @@
+.barraDeBusca {
+    background-color: #ffe600;
+    width: 100vw;
+    height: 7vh;
+    margin: 0;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.divInternaBarraDeBusca {
+    width: 70vw;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.divImgMercadoLivre {
+    width: 4vw;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.divInptBarraDeBusca {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.imgBarraDeBusca{
+width: 3.5vw
+}
+
+.inptBarraDeBusca {
+height: 4vh;
+width: 60vw;
+
+border-radius: 0.2vw 0vw 0vw 0.2vw;
+border: none;
+
+font-size: 1em;
+padding-left: 1vw;
+justify-content: center;
+
+}
+
+
+.formDesign{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.btnBusca {
+    height: 4.2vh;
+    border-radius: 0vw 0.2vw 0.2vw 0vw;
+    background-color: #e9e9e9;
+    margin: 0;
+
+}
+

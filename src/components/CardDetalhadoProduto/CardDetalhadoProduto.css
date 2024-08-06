@@ -1,0 +1,100 @@
+.divCardDetalhadoProduto{
+    height: 80vh;
+    width: 71vw;
+    background-color: #ffffff;
+    margin: 0.5vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+
+.divInternaCardDetalhadoProduto{
+    height: 78vh;
+    width: 67vw;
+    padding: 1vw;
+}
+
+.imgIpod {
+    
+    height: 55vh;
+    width: 20vw;
+    
+}
+
+
+.divConteudoDireitaProduto {
+height: 22vh;
+display: flex;
+justify-content: space-between;
+align-items: start;
+flex-direction: column;
+
+}
+
+.divTituloItem {
+    width: 15vw ;
+    font-size: 1.3em;
+    font-weight: 700;
+}
+.divPrecoEPrecoDecimal{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    flex-direction: row;
+}
+
+.divPreco {
+    font-weight: 600;
+    font-size: 1.8em;
+}
+.divConteudoProduto {
+    display: flex;
+    justify-content: space-between;
+    align-items: star;
+    flex-direction: row;
+}
+
+.divConditionSoldQuantity {
+    width: 7vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    flex-direction: row;
+}
+
+.btnComprar {
+    width: 17vw;
+    height: 4vh;
+    color: #ffffff;
+    background-color: rgba(32, 32, 248, 0.767);
+    border-radius: 0.1vw;
+}
+
+.btnComprar:hover {
+    background-color: rgba(32, 32, 224, 0.767);
+    border-radius: 0.1vw;
+}
+
+.divGeralConteudoDescricao {
+    height: 20vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    flex-direction: column;
+   
+    
+}
+
+.divTituloDecricaoItem{
+    font-size: 1.5em;
+    font-weight: 500;
+}
+.divDecricaoItem {
+    height: 16vh;
+    width: 50vw;
+    font-size: 1em;
+    overflow-y: scroll;
+}

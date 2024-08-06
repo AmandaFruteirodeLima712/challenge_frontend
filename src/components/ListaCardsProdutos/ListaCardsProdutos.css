@@ -1,0 +1,20 @@
+.divCardsProdutos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.linkDesign {
+    color: rgb(15, 15, 15);
+}
+
+.linkDesign:hover {
+    color: rgb(15, 15, 15);
+}
+
+.divListaCardProdutos {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
